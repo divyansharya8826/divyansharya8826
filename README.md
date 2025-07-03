@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science & Engineering student at Ajay Kumar Garg Engineering College (2021–Present)
+- 🎓 Computer Science & Engineering graduate from Ajay Kumar Garg Engineering College (2021–2025)
 - 🛠️ Passionate about building robust, scalable web applications and solving real-world problems with Python and modern technologies
 - 🤝 Collaborative team player with a problem-solving mindset and a drive for continuous learning
 - 🌱 Currently exploring AI/ML solutions and full stack frameworks
